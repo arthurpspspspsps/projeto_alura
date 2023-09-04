@@ -149,3 +149,7 @@ body{
     text-align: center;
     margin: 3em ;
 }
+
+.lista__link a:hover{
+    color: var(--botao-azul);
+}
